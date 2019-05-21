@@ -1,0 +1,10 @@
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\myMLAppML.Model.deps.json
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\myMLAppML.Model.dll
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\myMLAppML.Model.pdb
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.csprojAssemblyReference.cache
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.csproj.CoreCompileInputs.cache
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.AssemblyInfoInputs.cache
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.AssemblyInfo.cs
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.dll
+C:\Users\vieir\Documents\GitHub\AI\Net\Machine Learning\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.pdb
